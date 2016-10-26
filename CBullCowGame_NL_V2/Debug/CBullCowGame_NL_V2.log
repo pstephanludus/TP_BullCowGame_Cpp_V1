@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\asus\documents\visual studio 2015\projects\cbullcowgame_nl_v2\cbullcowgame_nl_v2\cbullcowgame.hpp(10): warning C4091: 'typedef ' : ignoré à gauche de 'BullCowCount' quand aucune variable n'est déclarée
+  CBullCowGame_NL_V2.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\CBullCowGame_NL_V2\Debug\CBullCowGame_NL_V2.exe
+  CBullCowGame_NL_V2.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\CBullCowGame_NL_V2\Debug\CBullCowGame_NL_V2.pdb (Partial PDB)
